@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target ‘CodingNotes’ do
+
+pod 'SDWebImage'
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'Masonry'
+pod 'SVProgressHUD'
+pod 'AFNetworking'
+pod 'IQKeyboardManager'
+
+
+end
